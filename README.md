@@ -28,11 +28,11 @@ This project is **beginner-friendly** and does **not use DAX**, focusing only on
 powerbi-basic-visuals/
 │
 ├── data/
-│ └── visual_demo_data.xlsx
+│   └── visual_demo_data.xlsx
 ├── powerbi/
-│ └── PowerBI_Basic_Visuals.pbix
+│   └── PowerBI_Basic_Visuals.pbix
 ├── screenshots/
-│ └── visualization images
+│   └── visualization images
 └── README.md
 
 ---
