@@ -35,7 +35,6 @@ powerbi-basic-visuals/
 │ └── visualization images
 └── README.md
 
-
 ---
 
 ## 📊 Visualizations Explained
